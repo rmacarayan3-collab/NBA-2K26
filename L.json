@@ -638,7 +638,7 @@
 {"tid":26,
 "name":"Victor Wembanyama",
 "ratings":[{"season":2024,"hgt":90,"stre":17,"spd":48,"jmp":68,"endu":20,"ins":70,"dnk":62,"ft":58,"fg":81,"tp":44,"diq":58,"oiq":76,"drb":47,"pss":47,"reb":64},{"season":2025,"hgt":90,"stre":19,"spd":46,"jmp":87,"endu":18,"ins":87,"dnk":44,"ft":63,"fg":93,"tp":60,"diq":65,"oiq":84,"drb":41,"pss":53,"reb":60},
-{"season":2026,"hgt":90,"stre":55,"spd":55,"jmp":80,"endu":55,"ins":95,"dnk":85,"ft":65,"fg":85,"tp":40,"diq":95,"oiq"95,"drb":55,"pss":65,"reb":90}],
+{"season":2026,"hgt":90,"stre":55,"spd":55,"jmp":80,"endu":55,"ins":95,"dnk":85,"ft":65,"fg":85,"tp":40,"diq":95,"oiq":95,"drb":55,"pss":65,"reb":90}],
 "pos":"FC","hgt":88,"weight":230,"srID":"wembavi01",
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1641705.png",
 "born":{"year":2004,"loc":"Le Chesnay, France"},
